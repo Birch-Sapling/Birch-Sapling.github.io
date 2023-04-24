@@ -10,6 +10,10 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
+
+   background-image: url('green banner.png');
+  background-size: cover;
+  background-position: center;
 }
 
 nav ul {
