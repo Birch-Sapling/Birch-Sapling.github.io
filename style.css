@@ -15,6 +15,11 @@ header {
   background-size: cover;
   background-position: center;
 }
+header img {
+  width: 100px; /* Adjust this value to fit the size of your image */
+  height: 100px; /* Adjust this value to fit the size of your image */
+  border-radius: 50%; /* Make the image round */
+}
 
 nav ul {
   list-style: none;
