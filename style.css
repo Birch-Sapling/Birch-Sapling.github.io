@@ -16,6 +16,8 @@ header {
   background-position: center;
 }
 header img {
+  background-image: url('../img/green banner.png');
+
   width: 100px; /* Adjust this value to fit the size of your image */
   height: 100px; /* Adjust this value to fit the size of your image */
   border-radius: 50%; /* Make the image round */
